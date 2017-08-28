@@ -10,6 +10,7 @@ namespace Project
     {
         static void Main(string[] args)
         {
+            Cash c = new Cash();
             Console.ReadLine();
         }
     }
