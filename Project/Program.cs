@@ -10,6 +10,9 @@ namespace Project
     {
         static void Main(string[] args)
         {
+            CreditCard card = new CreditCard("user");
+            card.WriteName();
+            Console.ReadLine();
             Console.ReadLine();
         }
     }
