@@ -1,1 +1,6 @@
 C:\Users\s25-v2\Desktop\QA\QA3\Solution\Project\bin\Debug\Project.exe.config
+C:\Users\s25-v2\Desktop\QA\QA3\Solution\Project\bin\Debug\Project.exe
+C:\Users\s25-v2\Desktop\QA\QA3\Solution\Project\bin\Debug\Project.pdb
+C:\Users\s25-v2\Desktop\QA\QA3\Solution\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\s25-v2\Desktop\QA\QA3\Solution\Project\obj\Debug\Project.exe
+C:\Users\s25-v2\Desktop\QA\QA3\Solution\Project\obj\Debug\Project.pdb

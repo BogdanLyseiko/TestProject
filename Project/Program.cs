@@ -10,7 +10,12 @@ namespace Project
     {
         static void Main(string[] args)
         {
+            BohdanLyseiko instance = new BohdanLyseiko();
             Console.ReadLine();
         }
+    }
+    class BohdanLyseiko
+    {
+        int someField;
     }
 }
